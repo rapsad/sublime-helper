@@ -100,9 +100,15 @@ Looks like *theme* setting export and import causes issues on pristine setup. Th
 Don't try to transfer font setting if the destination font is missing.
 Setup `Source Code Pro manually <http://opensourcehacker.com/2012/10/07/go-pro-and-your-eyes-will-thank-you/>`_.
 
+Good articles before using Sublime Text
+-------------
+
+`Link <http://thunderboltlabs.com/blog/2013/11/19/efficiency-with-sublime-text-and-ruby/>`
+
 Author
 --------------
 
 Mikko Ohtamaa (`blog <https://opensourcehacker.com>`_, `Facebook <https://www.facebook.com/?q=#/pages/Open-Source-Hacker/181710458567630>`_, `Twitter <https://twitter.com/moo9000>`_, `Google+ <https://plus.google.com/u/0/103323677227728078543/>`_)
+Dawid Półchłopek (some changes)
 
 

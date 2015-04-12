@@ -3,9 +3,6 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"Case Conversion",
-		"Djaneiro",
-		"DocBlockr",
 		"Emmet",
 		"Gist",
 		"Git",
@@ -22,6 +19,9 @@
 		"SVN",
 		"Tag",
 		"Theme - Soda",
-        "JsFormat"
+    "SCSS",
+    "TrailingSpaces",
+    "GitGutter",
+    "Cucumber"
 	]
 }
